@@ -15,6 +15,12 @@ Employee analysis
 
 This is a python and SQL project on an imaginary supermarket called Nasa Supermarket. the analysis project objectives is to analyze and glean insight into the sales performance of Nasa Supermarket for the year 2023. By analyzing various aspect of the sales data, we want to identify trends, make data-driven recommendations, and gain a deeper understanding of the supermarket’s (company) performance to answer critical questions and help the supermarket make data-driven decisions.
 
+
+![sales1](https://github.com/CChukwu-data-analyst/HR-Data-Analysis/assets/170612341/b764736f-839e-4c6e-adba-af08d651a08c)
+
+
+[Uploading Salesdata.csv…]()
+
 ### Data Source
 
 HR data: The primary dataset used for this analysis is the “HR_data.csv” file, containing detail information about each company employee for the period under review spanning from first to the forth quarter of the year 2023.
