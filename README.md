@@ -47,6 +47,10 @@ EDA provides the means to exploring the sales data to answer critical questions 
 -	Which products are top sellers? 
 -	What are the peak sales period?
 
+
+![tuesday_sales](https://github.com/CChukwu-data-analyst/HR-Data-Analysis/assets/170612341/11a5aa54-953f-4a60-8736-c92798f577b8)
+
+
 ### Data Analysis
 
 Some interested code / features worked with
