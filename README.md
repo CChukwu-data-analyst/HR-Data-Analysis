@@ -91,3 +91,10 @@ I have to remove all missing values and zeros from Tuesday to Friday columns bec
 -	Stack overflow
 -	Konga website
 
+*Table*
+
+  |Column1|Column2|
+  |-------|-------|
+  |SQL|Python
+
+😄   ㊗️
