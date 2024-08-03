@@ -91,6 +91,8 @@ I have to remove all missing values and zeros from Tuesday to Friday columns bec
 -	Stack overflow
 -	Konga website
 
+  ![](tuesday_sales.jpg)
+
 *Table*
 
   |Column1|Column2|
