@@ -96,5 +96,6 @@ I have to remove all missing values and zeros from Tuesday to Friday columns bec
   |Column1|Column2|
   |-------|-------|
   |SQL|Python
+  |Power BI|Excel
 
 😄   ㊗️
